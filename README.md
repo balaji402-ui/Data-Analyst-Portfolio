@@ -1,128 +1,162 @@
-# World Layoffs Data Analysis
+# Data Analyst Portfolio
 
-## Project Overview
+Welcome to my Data Analyst Portfolio. This repository showcases projects completed using SQL, Excel, Power BI, and Tableau. These projects demonstrate my skills in data cleaning, exploratory data analysis, dashboard development, data visualization, and business intelligence reporting.
 
-This project focuses on performing Exploratory Data Analysis (EDA) on a global layoffs dataset using SQL. The objective was to uncover trends and patterns related to workforce reductions across companies, industries, countries, and time periods.
+## About Me
 
-The dataset contains information about layoffs from various organizations worldwide, including company names, locations, industries, funding raised, and the number of employees laid off. Through SQL analysis, meaningful business insights were extracted to better understand the impact of layoffs across different sectors.
+I am an aspiring Data Analyst with a background in business administration and a strong interest in transforming raw data into actionable insights. Through hands-on projects, I have developed practical experience in data analysis, reporting, and visualization using industry-standard tools.
 
----
+## Skills Demonstrated
 
-## Dataset Information
-
-The dataset includes the following attributes:
-
-* Company Name
-* Location
-* Industry
-* Total Employees Laid Off
-* Percentage of Workforce Laid Off
-* Date of Layoff
-* Company Stage
-* Country
-* Funds Raised (Millions)
+* SQL Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Dashboard Development
+* Power BI
+* Tableau
+* Microsoft Excel
+* Pivot Tables
+* Data Transformation
+* Business Intelligence Reporting
 
 ---
 
-## Objectives
+# Projects
 
-The primary goals of this analysis were:
+## 1. Data Professional Survey Dashboard (Power BI)
 
-* Identify companies with the highest number of layoffs.
-* Analyze layoff trends over different years.
-* Compare layoffs across industries.
-* Examine country-wise layoff distributions.
-* Identify organizations that laid off 100% of their workforce.
-* Generate insights that can support business and economic analysis.
+### Overview
 
----
+An interactive Power BI dashboard built using survey data collected from data professionals worldwide. The dashboard provides insights into salary trends, work-life balance, job satisfaction, and preferred programming languages.
 
-## Analysis Performed
+### Key Insights
 
-### 1. Company Analysis
+* Average salary by job title
+* Work-life balance ratings
+* Salary satisfaction scores
+* Favorite programming languages among data professionals
+* Country-wise respondent distribution
 
-* Identified companies with the highest total layoffs.
-* Ranked organizations based on workforce reductions.
+### Tools Used
 
-### 2. Industry Analysis
-
-* Compared layoffs across industries.
-* Determined which sectors were most affected.
-
-### 3. Country Analysis
-
-* Analyzed layoffs by country.
-* Identified regions with the highest workforce impact.
-
-### 4. Time Series Analysis
-
-* Examined yearly layoff trends.
-* Analyzed how layoffs changed over time.
-
-### 5. Complete Workforce Layoffs
-
-* Identified companies that laid off 100% of their employees.
-* Investigated patterns among these organizations.
+* Power BI
+* Data Cleaning
+* Data Visualization
 
 ---
 
-## SQL Concepts Used
+## 2. Seattle Housing Analysis (Tableau)
 
-This project demonstrates practical usage of:
+### Overview
 
-* Aggregate Functions (SUM, MAX, AVG)
+An interactive Tableau dashboard analyzing housing prices across Seattle. The project explores trends in housing prices, bedroom counts, and geographical price distributions.
+
+### Key Insights
+
+* Average house prices by zipcode
+* Revenue trends over time
+* Housing prices by bedroom count
+* Geographic distribution of housing prices
+
+### Tools Used
+
+* Tableau
+* Data Visualization
+* Business Intelligence
+
+---
+
+## 3. World Layoffs Analysis (SQL)
+
+### Overview
+
+Performed exploratory data analysis on a global layoffs dataset using SQL. The project focuses on identifying trends across industries, companies, countries, and years.
+
+### Key Analysis Performed
+
+* Companies with the highest layoffs
+* Industry-wise layoffs
+* Country-wise layoffs
+* Yearly layoff trends
+* Companies with 100% workforce reduction
+
+### SQL Concepts Used
+
+* Aggregate Functions
 * GROUP BY
 * ORDER BY
 * Common Table Expressions (CTEs)
 * Date Functions
-* Window Functions
-* Data Filtering
-* Ranking Techniques
 
 ---
 
-## Key Insights
+## 4. Bike Buyers Analysis (Excel)
 
-* Several technology companies recorded the highest layoff numbers.
-* Layoffs increased significantly during periods of economic uncertainty.
-* Certain industries experienced a greater workforce impact than others.
-* A small number of companies completely shut down operations, resulting in 100% layoffs.
-* Layoff patterns varied considerably across countries and business sectors.
+### Overview
 
----
+An Excel-based dashboard project analyzing customer demographics and purchasing behavior related to bike purchases.
 
-## Tools Used
+### Key Insights
 
-* MySQL
-* SQL Workbench
+* Average income per purchase
+* Customer age distribution
+* Commute distance analysis
+* Purchase trends by demographic group
 
----
+### Excel Skills Used
 
-## Skills Demonstrated
-
-* Exploratory Data Analysis (EDA)
-* Data Aggregation
-* Business Insight Generation
-* Trend Analysis
-* SQL Query Writing
-* Data Interpretation
-* Analytical Problem Solving
+* Pivot Tables
+* Pivot Charts
+* Data Cleaning
+* Dashboard Design
+* Slicers and Filters
 
 ---
 
-## Repository Files
+## Repository Structure
 
-```text
-World_Layoffs_Analysis
-│
-├── layoffs.csv
-├── EDA.sql
-├── README.md
-└── Screenshots
-```
+Data-Analyst-Portfolio
+
+├── PowerBI
+
+│ └── Data_Professional_Survey
+
+├── Tableau
+
+│ └── Seattle_Housing_Analysis
+
+├── SQL
+
+│ └── World_Layoffs_Analysis
+
+└── Excel
+
+└── Bike_Buyers_Analysis
 
 ---
 
-## Conclusion
+## Learning Outcomes
 
-This project demonstrates the use of SQL for exploratory data analysis and business intelligence reporting. By analyzing a real-world layoffs dataset, valuable insights were generated regarding workforce trends, industry performance, and economic conditions. The project highlights essential SQL skills commonly required for Data Analyst roles.
+Through these projects, I gained practical experience in:
+
+* Cleaning and preparing datasets for analysis
+* Performing exploratory data analysis
+* Building interactive dashboards
+* Creating meaningful visualizations
+* Communicating business insights through data
+
+---
+
+## Contact
+
+Thank you for visiting my portfolio repository. I am actively seeking opportunities in Data Analytics, Business Analytics, and related fields. Feel free to connect with me or reach out regarding internships, entry-level positions, collaborations, or professional networking opportunities.
+
+Email: balajishashank402@gmail.com
+
+LinkedIn: linkedin.com/in/balaji-shashank-k-074755366
+
+GitHub: github.com/balaji402-ui
+
+I am continuously learning and expanding my skills in SQL, Excel, Power BI, Tableau, Python, and Business Intelligence. Feedback and suggestions are always welcome.
+
+Thank you for taking the time to review my portfolio.
